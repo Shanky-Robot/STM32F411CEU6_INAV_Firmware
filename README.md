@@ -100,7 +100,7 @@ Parts
 8. Simonk 30A ESC
 9. 5V BEC 3A
 
-![image](https://github.com/Shanky-Robot/STM32F411CEU6_INAV_Firmware/blob/main/DIY%20FC%20STM32F411%20V1.png)
+![image](https://github.com/Shanky-Robot/STM32F411CEU6_INAV_Firmware/blob/main/DIY%20FC%20STM32F411%20V1.1.png)
 
 ![image](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/19993109/f6c54c9f-0416-4995-ba3e-3f99fb2ef6f8)
 
