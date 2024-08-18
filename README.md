@@ -87,6 +87,21 @@ You can connect Buzzer instead of CURRENT_METER_ADC.
 SOFTSERIAL1 to TX_PIN PA9 and RX_PIN PA10
 SOFTSERIAL2 to TX_PIN PA0 and RX_PIN PA1
 
+
+New updated Circuit Diagram based on Testing 
+Parts
+1. Accelerometer & Gyro: MPU6050
+2. Baromter: BMP280
+3. Magenatometer: GY-271
+4. GPS: UBlox Neo-6M
+5. Buzzer
+6. Bluetooth module: HM-10
+7. Blackbox: WS25Q128
+8. Simonk 30A ESC
+9. 5V BEC 3A
+
+![image](https://github.com/Shanky-Robot/STM32F411CEU6_INAV_Firmware/blob/main/DIY%20FC%20STM32F411%20V1.png)
+
 ![image](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/19993109/f6c54c9f-0416-4995-ba3e-3f99fb2ef6f8)
 
 
